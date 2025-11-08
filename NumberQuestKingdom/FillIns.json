@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "levelCategory": [
+    {
+      "categoryName": "Easy",
+      "Levels": [
+        {
+          "levelId": "Level-1",
+          "levelData": null
+        },
+        {
+          "levelId": "Level-2",
+          "levelData": null
+        }
+      ]
+    },
+       {
+      "categoryName": "Medium",
+      "Levels": [
+        {
+          "levelId": "Level-1",
+          "levelData": null
+        },
+        {
+          "levelId": "Level-2",
+          "levelData": null
+        }
+      ]
+    },
+       {
+      "categoryName": "Hard",
+      "Levels": [
+        {
+          "levelId": "Level-1",
+          "levelData": null
+        },
+        {
+          "levelId": "Level-2",
+          "levelData": null
+        }
+      ]
+    }
+  ]
+}
