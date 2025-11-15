@@ -6,6 +6,6 @@
         { "name": "WordSearch", "jsonVersion": "1.0.0" },
         { "name": "WordOfWonders", "jsonVersion": "1.0.0" },
         { "name": "Sudoku", "jsonVersion": "1.0.0" },
-        { "name": "Sumplete", "jsonVersion": "1.0.0" }
+        { "name": "Sumplete", "jsonVersion": "1.0.1" }
     ]
 }
