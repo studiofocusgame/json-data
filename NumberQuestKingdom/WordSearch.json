@@ -6,11 +6,11 @@
       "Levels": [
         {
           "levelId": "Level-1",
-          "levelData": null
+          "levelData": {"levelNo":1,"row":4,"col":4,"wordList":["BEST","FUN","WIN","WORD"],"wordGrid":[["B","E","S","T"],["F","U","N","B"],["S","I","L","P"],["W","O","R","D"]]}
         },
         {
           "levelId": "Level-2",
-          "levelData": null
+          "levelData": {"levelNo":2,"row":4,"col":4,"wordList":["BEST","FUN","WIN","WORD"],"wordGrid":[["B","E","S","T"],["F","U","N","B"],["S","I","L","P"],["W","O","R","D"]]}
         }
       ]
     },
