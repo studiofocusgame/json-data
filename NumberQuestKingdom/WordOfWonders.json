@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "levelCategory": [
     {
       "categoryName": "Easy",
       "Levels": [
         {
           "levelId": "Level-1",
-          "levelData": null
+          "levelData": {"levelNo":1,"row":4,"col":6,"input":"WEST","wordGrid":[["-","S","-","S","E","W"],["-","T","-","E","-","E"],["W","E","S","T","-","T"],["-","W","-","-","-","-"]]}
         },
         {
           "levelId": "Level-2",
-          "levelData": null
+          "levelData": {"levelNo":2,"row":5,"col":6,"input":"DRINK","wordList":["DRINK","KIND","RID","INK","KIN","KID"],"wordGrid":[["-","D","-","R","-","-"],["-","R","-","I","N","K"],["K","I","N","D","-","I"],["-","N","-","-","-","D"],["-","K","I","N","-","-"]]}
         }
       ]
     },
