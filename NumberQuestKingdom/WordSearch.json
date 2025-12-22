@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "levelCategory": [
     {
       "categoryName": "Easy",
@@ -11,32 +11,32 @@
         {
           "levelId": "Level-2",
           "levelData": {"levelNo":2,"row":4,"col":4,"wordList":["BEST","FUN","WIN","WORD"],"wordGrid":[["B","E","S","T"],["F","U","N","B"],["S","I","L","P"],["W","O","R","D"]]}
+        },
+         {
+          "levelId": "Level-2",
+          "levelData": {"levelNo":2,"row":4,"col":4,"wordList":["BEST","FUN","WIN","WORD"],"wordGrid":[["B","E","S","T"],["F","U","N","B"],["S","I","L","P"],["W","O","R","D"]]}
         }
       ]
     },
-       {
+    {
       "categoryName": "Medium",
       "Levels": [
         {
           "levelId": "Level-1",
-          "levelData": null
+          "levelData": {"levelNo":1,"row":4,"col":4,"wordList":["BEST","FUN","WIN","WORD"],"wordGrid":[["B","E","S","T"],["F","U","N","B"],["S","I","L","P"],["W","O","R","D"]]}
         },
         {
           "levelId": "Level-2",
-          "levelData": null
+          "levelData": {"levelNo":2,"row":4,"col":4,"wordList":["BEST","FUN","WIN","WORD"],"wordGrid":[["B","E","S","T"],["F","U","N","B"],["S","I","L","P"],["W","O","R","D"]]}
         }
       ]
     },
-       {
+    {
       "categoryName": "Hard",
       "Levels": [
-        {
-          "levelId": "Level-1",
-          "levelData": null
-        },
-        {
+         {
           "levelId": "Level-2",
-          "levelData": null
+          "levelData": {"levelNo":2,"row":4,"col":4,"wordList":["BEST","FUN","WIN","WORD"],"wordGrid":[["B","E","S","T"],["F","U","N","B"],["S","I","L","P"],["W","O","R","D"]]}
         }
       ]
     }
